@@ -1,4 +1,4 @@
-#Predicting Customer Churn
+# Predicting Customer Churn
 
 # Project Overview
 This project aims to predict customer churn in the telecommunications industry using machine learning models. By identifying key factors that contribute to customer churn, businesses can take proactive measures to improve customer retention and minimize revenue loss.
